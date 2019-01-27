@@ -1,4 +1,4 @@
-# microservice-versioning
+# microservice-faq
 
 https://semver.org/
 https://niels.nu/blog/2016/microservice-versioning.html
